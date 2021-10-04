@@ -1,0 +1,10 @@
+.header{
+    width: 100vw;
+    height: 6rem;
+    background-color: $primary-yellow;
+    display: grid;
+    place-items: center;
+    &__image{
+        height: 70%;
+    }
+}
